@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "description": "y",
+  "main": "y",
+  "authors": [
+    "TONI"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "inotives"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}

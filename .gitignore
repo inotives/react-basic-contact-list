@@ -1,0 +1,6 @@
+node_modules
+*.log
+src/js/vendors
+.DS_Store
+dist
+bower_components

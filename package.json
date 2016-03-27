@@ -1,0 +1,27 @@
+{
+  "name": "react-basic-contact-list",
+  "version": "0.1.0",
+  "description": "simple contact list app with firebase",
+  "main": "index.js",
+  "scripts": {
+    "setup": "npm install && bower install",
+    "server": "http-server ./dist -p 1344"
+  },
+  "keywords": [
+    "inotives"
+  ],
+  "author": "TONI",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "object-assign": "^4.0.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
